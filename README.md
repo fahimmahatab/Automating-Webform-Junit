@@ -4,7 +4,7 @@
 ## Here I automate the following features:
 - Handle Alerts
 - Write on textbox
-- Handle CheckBocRadio
+- Handle CheckBoxRadio
 - Scroll
 - Select Date
 - Upload Image
